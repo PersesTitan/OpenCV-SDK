@@ -2,3 +2,5 @@
 *.hpp linguist-vendored
 *.h linguist-vendored
 *.cmake linguist-vendored
+*.Makefile linguist-detectable=false
+*.mk linguist-detectable=false
